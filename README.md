@@ -1,1 +1,0 @@
-# Rabin-karp-fingerprinting-algorithm
